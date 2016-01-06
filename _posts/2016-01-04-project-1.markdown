@@ -1,0 +1,15 @@
+---
+title: Eyan欢迎你
+subtitle: Eyan
+layout: default
+modal-id: 1
+date: 2016-01-04
+img: HelloEyan.jpg
+thumbnail: HelloEyan_s.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Eyan
+description: 瞧，Eyan笑的多开心！
+
+---
