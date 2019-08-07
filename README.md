@@ -29,9 +29,3 @@ View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-th
 =========
 For more details, read [documentation](http://jekyllrb.com/)
 
-- [1] [documentation](http://jekyllrb.com/)
-- [2] [ASOR - 基于x86架构的虚拟机实现](https://calinyara.github.io/asor/2019/08/05/asor-hypervisor.html)
-
-# 文章列表
-
-- [1] [ASOR - 基于x86架构的虚拟机实现](https://calinyara.github.io/asor/2019/08/05/asor-hypervisor.html)
